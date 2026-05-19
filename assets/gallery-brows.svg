@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520" role="img" aria-label="Obočí placeholder">
+  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#fffaf4"/><stop offset=".52" stop-color="#e8cfc0"/><stop offset="1" stop-color="#d2a56f"/></linearGradient></defs>
+  <rect width="520" height="520" rx="34" fill="url(#g)"/>
+  <path d="M92 235c91-65 187-65 287 0-100-31-196-31-287 0Z" fill="#4c3531" opacity=".82"/>
+  <path d="M126 318c86-75 175-75 268 0-95-38-184-38-268 0Z" fill="#6d4843" opacity=".66"/>
+  <path d="M91 184c97-39 207-45 330-17" fill="none" stroke="#fffaf4" stroke-width="3" opacity=".65"/>
+  <circle cx="417" cy="110" r="58" fill="#fff" opacity=".24"/>
+  <text x="36" y="470" fill="#261f1d" opacity=".65" font-family="Georgia,serif" font-size="40">Laminace</text>
+</svg>

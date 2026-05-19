@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="720" viewBox="0 0 520 720" role="img" aria-label="Nehty placeholder">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8f1"/><stop offset=".55" stop-color="#e8cfc0"/><stop offset="1" stop-color="#bf7e78"/></linearGradient></defs>
+  <rect width="520" height="720" rx="34" fill="url(#g)"/>
+  <circle cx="91" cy="92" r="122" fill="#fff" opacity=".32"/>
+  <path d="M145 604c58-182 98-326 120-432 8-38 66-32 65 7-4 123-24 270-60 441" fill="#fffaf4" opacity=".73"/>
+  <path d="M255 628c40-172 72-312 96-421 9-40 68-34 67 7-2 121-19 260-50 418" fill="#f7d8cf" opacity=".9"/>
+  <path d="M151 575c37 33 77 39 121 18M262 601c36 27 72 32 110 15" fill="none" stroke="#9f625d" stroke-width="8" stroke-linecap="round" opacity=".46"/>
+  <text x="36" y="676" fill="#261f1d" opacity=".65" font-family="Georgia,serif" font-size="42">Nehty</text>
+</svg>
