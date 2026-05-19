@@ -7,7 +7,8 @@ Statický prezentační web pro kosmetické studio v Poličce.
 - `index.html` - obsah webu, SEO meta tagy a sekce
 - `style.css` - responzivní design, animace a vizuální styl
 - `script.js` - mobilní menu, reveal animace, počítadla, lightbox, CTA logika
-- `assets/` - lokální placeholder vizuály připravené k výměně za reálné fotografie
+
+Vizuály jsou napojené na reálné fotografie z Unsplash CDN. Před ostrým spuštěním je vhodné je nahradit vlastními fotografiemi studia, nehtů, řas a kosmetických detailů.
 
 ## Rezervační odkaz
 
